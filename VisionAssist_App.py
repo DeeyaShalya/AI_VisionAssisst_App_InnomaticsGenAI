@@ -11,7 +11,7 @@ import threading
 pytesseract.pytesseract.tesseract_cmd = r'C:\Program Files\Tesseract-OCR\tesseract.exe'
 
 # Initialize Google Generative AI with API Key
-GEMINI_API_KEY = "AIzaSyBbDQ2Tu3W9Ilj-GBF6uYoqSkQKyUVqQsA"
+GEMINI_API_KEY = "Your_API_Key"
 os.environ["GOOGLE_API_KEY"] = GEMINI_API_KEY
 
 llm = GoogleGenerativeAI(model="gemini-1.5-pro", api_key=GEMINI_API_KEY)
