@@ -1,4 +1,4 @@
-#VisionAssist 👁️ - AI for Scene Understanding, Text Extraction & Speech for the Visually Impaired 🗣️
+VisionAssist 👁️ - AI for Scene Understanding, Text Extraction & Speech for the Visually Impaired 🗣️
 
 Overview 🌟
 
